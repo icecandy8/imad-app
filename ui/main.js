@@ -14,5 +14,5 @@ var img = document.getElementById('madi');
 img.onClick = function () {
     //Every 100ms apply the move right function
     // var interval = setInterval(moveRight, 50);
-    img.style.marginLeft = '100px';  
+    img.style.marginRight = '100px';  
 };
